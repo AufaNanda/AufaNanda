@@ -17,8 +17,8 @@ I'm an undergraduate Computer Science student at BINUS University, passionate ab
 
 ### Connect with me:
 
-[![[website](http://aufa-domain.vercel.app/)](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![[website](http://aufa-domain.vercel.app/)](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![(http://aufa-domain.vercel.app/)](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![(http://aufa-domain.vercel.app/)](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
