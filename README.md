@@ -1,9 +1,10 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 # 💫About Me
 
 ## Hi everyone, Aufa Ekananda Hadyan Putra is here 🚀
 I'm an undergraduate Computer Science student at BINUS University, passionate about backend development, particularly in Python and SQL. Enjoy solving complex problems and optimizing database systems. Additionally, interested in marketing strategy, with experience in publication and marketing, which has sharpened their communication and strategic planning skills. As an active member of an organization, they value teamwork and take pride in their sense of responsibility.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 ## 🖥️Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
